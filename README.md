@@ -32,7 +32,7 @@ curl -X POST http://localhost:5000/predict \
   "feature2": value,
   ...
 }'
-
+```
 ## The API returns:
 
 ```bash
